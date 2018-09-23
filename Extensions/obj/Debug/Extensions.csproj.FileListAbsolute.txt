@@ -1,0 +1,4 @@
+D:\Repos\Helper-Library\Extensions\bin\Debug\Extensions.dll
+D:\Repos\Helper-Library\Extensions\bin\Debug\Extensions.pdb
+D:\Repos\Helper-Library\Extensions\obj\Debug\Extensions.dll
+D:\Repos\Helper-Library\Extensions\obj\Debug\Extensions.pdb

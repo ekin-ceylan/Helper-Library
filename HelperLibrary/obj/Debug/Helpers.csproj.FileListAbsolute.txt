@@ -1,0 +1,4 @@
+D:\Repos\Helper-Library\HelperLibrary\bin\Debug\HelperLibrary.dll
+D:\Repos\Helper-Library\HelperLibrary\bin\Debug\HelperLibrary.pdb
+D:\Repos\Helper-Library\HelperLibrary\obj\Debug\HelperLibrary.dll
+D:\Repos\Helper-Library\HelperLibrary\obj\Debug\HelperLibrary.pdb
