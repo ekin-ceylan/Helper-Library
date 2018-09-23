@@ -1,0 +1,5 @@
+C:\Users\ekinc\Source\Repos\Helper-Library\Helpers\bin\Debug\Helpers.dll
+C:\Users\ekinc\Source\Repos\Helper-Library\Helpers\bin\Debug\Helpers.pdb
+C:\Users\ekinc\Source\Repos\Helper-Library\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\ekinc\Source\Repos\Helper-Library\Helpers\obj\Debug\Helpers.dll
+C:\Users\ekinc\Source\Repos\Helper-Library\Helpers\obj\Debug\Helpers.pdb

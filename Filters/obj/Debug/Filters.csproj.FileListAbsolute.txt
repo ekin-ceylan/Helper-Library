@@ -1,0 +1,5 @@
+C:\Users\ekinc\Source\Repos\Helper-Library\Filters\bin\Debug\Filters.dll
+C:\Users\ekinc\Source\Repos\Helper-Library\Filters\bin\Debug\Filters.pdb
+C:\Users\ekinc\Source\Repos\Helper-Library\Filters\obj\Debug\Filters.dll
+C:\Users\ekinc\Source\Repos\Helper-Library\Filters\obj\Debug\Filters.pdb
+C:\Users\ekinc\Source\Repos\Helper-Library\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache

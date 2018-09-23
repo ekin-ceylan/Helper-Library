@@ -1,0 +1,4 @@
+C:\Users\ekinc\Source\Repos\Helper-Library\Extensions\bin\Debug\Extensions.dll
+C:\Users\ekinc\Source\Repos\Helper-Library\Extensions\bin\Debug\Extensions.pdb
+C:\Users\ekinc\Source\Repos\Helper-Library\Extensions\obj\Debug\Extensions.dll
+C:\Users\ekinc\Source\Repos\Helper-Library\Extensions\obj\Debug\Extensions.pdb
